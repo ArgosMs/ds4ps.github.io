@@ -7,11 +7,11 @@ permalink: /data/
 
 ## Open Data 
 
-Everyone enjoys blogs about [interesting datasets](http://rs.io/100-interesting-data-sets-for-statistics/), but useful datasets are even better. The problem is that the open data movement has been too successful by some measures. 
+Everyone enjoys blogs about **[interesting datasets]**(http://rs.io/100-interesting-data-sets-for-statistics/), but useful datasets are even better. The problem is that the open data movement has been too successful by some measures. 
 
-We have gone from a relatively data poor environment in government and nonprofits to an amazing repositories of open data assets, including [Socrata](https://socrata.com/solutions/open-data-citizen-engagement/) and [CKAN's](https://ckan.org/about/instances/) Open Government data portals, the US Federal portal at [www.data.gov](https://www.data.gov/), and over 80,000 academic datasets posted on [Dataverse](https://dataverse.harvard.edu/).
+We have gone from a relatively data poor environment in government and nonprofits to an amazing repositories of open data assets, including **[Socrata]**(https://socrata.com/solutions/open-data-citizen-engagement/) and **[CKAN's]**(https://ckan.org/about/instances/) Open Government data portals, the US Federal portal at **[www.data.gov]**(https://www.data.gov/), and over 80,000 academic datasets posted on **[Dataverse]**(https://dataverse.harvard.edu/).
 
-Data is more useful when it comes with a [vignette](https://ds4ps.github.io/PROG-EVAL-III/Datasets_in_R.html) that provides some information about the nature of the data and potential uses. We will work to update the site with some helpful datasets for public affairs programs in the near future. 
+Data is more useful when it comes with a **[vignette]**(https://ds4ps.github.io/PROG-EVAL-III/Datasets_in_R.html) that provides some information about the nature of the data and potential uses. We will work to update the site with some helpful datasets for public affairs programs in the near future. 
 
 In the meantime, enjoy some of these resources:
 
